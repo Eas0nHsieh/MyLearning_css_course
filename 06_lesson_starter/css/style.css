@@ -1,0 +1,31 @@
+body {
+    padding: 10%;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* input, button{
+    font: inherit;
+} */
+
+p {
+    /* text-decoration: underline;  下底線 */
+    /* text-decoration: overline;   上底線*/
+    /* text-decoration: line-through;  刪除線 */
+    /* text-decoration: none;  預設 */
+    /* text-transform: capitalize;  每個單字的第一個字母大寫 */
+    /* text-transform: lowercase;  每個字母小寫 */
+    /* text-transform: uppercase;  每個字母大寫 */
+    /* text-align: left;  靠左對齊 */
+    /* text-align: justify; */
+    /* text-align: right;  靠右對齊 */
+    /* text-indent: 2em; */
+    /*行高 */
+    line-height: 1.5;
+    /* letter-spacing: 0.1em; 字母之間空格*/
+    /*單字之間的空格 */
+    word-spacing: 0.5em;
+    /* 字體粗細
+    font-weight: bolder; */
+    font-style: italic;
+}
