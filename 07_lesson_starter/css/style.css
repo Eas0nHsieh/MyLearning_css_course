@@ -5,3 +5,29 @@ body {
     font-size: 2rem;
     font-family: 'Roboto', sans-serif;
 }
+
+/* main{
+    opacity: 0.4;
+} */
+
+a {
+    color: hsl(207, 45%, 47%);
+}
+
+/*以連結過*/
+a:visited {
+    color: purple;
+}
+
+/*滑鼠移至連結*/
+a:hover,
+a:focus {
+    color: hsl(189, 45%, 47%, 0.8);
+    /* opacity: 0.9; */
+    background-color: gold;
+}
+
+/*選擇的連結*/
+a:active {
+    color: red;
+}
